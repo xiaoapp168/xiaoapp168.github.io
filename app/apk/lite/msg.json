@@ -1,3 +1,14 @@
 [
-    
+    {
+        "id": "1",
+        "type": "text",
+        "title": "快调试付费版下载",
+        "content": "快调试目前已经推出去广告的付费版本，可点击下方链接前往下载",
+        "should_top": "1",
+        "expire_date": "-1",
+        "action": "https://play.google.com/store/apps/details?id=com.xiaoapp.getsignature",
+        "isNotify": "0",
+        "showFace": 0,
+        "create_date": "202307200600"
+      }
 ]
