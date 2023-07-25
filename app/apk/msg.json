@@ -1,2 +1,14 @@
 [
+    {
+        "id": "1",
+        "type": "apk",
+        "title": "下载付费版",
+        "content": "快调试目前已经推出去广告的付费版本，可点击下方链接前往下载",
+        "should_top": "1",
+        "expire_date": "202511020000",
+        "action": "https://play.google.com/store/apps/details?id=com.xiaoapp.getsignature",
+        "isNotify": "1",
+        "showFace": 2,
+        "create_date": "202307200600"
+      }
 ]
