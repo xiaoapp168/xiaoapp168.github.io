@@ -1,12 +1,12 @@
 {
-  "showRedMaxVersionCode": 69,
-  "needUpdateMinVersionCode": 10,
+  "showRedMaxVersionCode": 92,
+  "needUpdateMinVersionCode": 92,
   "forceUpdateMinVersionCode": 0,
   "forceUpdateList": " ",
   "needUpdateList": " ",
-  "newVersionName": "1.2.1",
-  "newVersionCode": 70,
-  "newVersionInfo": "1. 新增进入快速应用设置的能力<BR>2. 精简安装包大小",
+  "newVersionName": "1.4.0",
+  "newVersionCode": 93,
+  "newVersionInfo": "1. 修复分享、扫码不可用的bug",
   "newVersionMD5": "",
   "newVersionURL": "https://play.google.com/store/apps/details?id=com.xiaoapp.getsignature.lite"
 }
