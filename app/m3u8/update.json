@@ -1,11 +1,11 @@
 {
-  "showRedMaxVersionCode": 157,
-  "needUpdateMinVersionCode": 157,
+  "showRedMaxVersionCode": 159,
+  "needUpdateMinVersionCode": 159,
   "forceUpdateMinVersionCode": 0,
   "forceUpdateList": " ",
   "needUpdateList": " ",
   "newVersionName": "1.5.0",
-  "newVersionCode": 158,
+  "newVersionCode": 159,
   "newVersionInfo": "1. 修复分享、扫码不可用的bug<BR>2. 提升下载速度",
   "newVersionMD5": "",
   "newVersionURL": "https://play.google.com/store/apps/details?id=com.xiaoapp.android.app.m3u8"

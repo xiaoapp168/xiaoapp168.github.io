@@ -1,11 +1,11 @@
 {
-  "showRedMaxVersionCode": 157,
-  "needUpdateMinVersionCode": 157,
+  "showRedMaxVersionCode": 159,
+  "needUpdateMinVersionCode": 159,
   "forceUpdateMinVersionCode": 0,
   "forceUpdateList": " ",
   "needUpdateList": " ",
   "newVersionName": "1.5.0",
-  "newVersionCode": 158,
+  "newVersionCode": 159,
   "newVersionInfo": "1. 修复了一些新系统适配的问题",
   "newVersionMD5": "",
   "newVersionURL": "https://play.google.com/store/apps/details?id=com.xiaoapp.getsignature"
