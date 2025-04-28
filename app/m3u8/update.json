@@ -1,12 +1,12 @@
 {
-  "showRedMaxVersionCode": 166,
-  "needUpdateMinVersionCode": 166,
+  "showRedMaxVersionCode": 176,
+  "needUpdateMinVersionCode": 176,
   "forceUpdateMinVersionCode": 0,
   "forceUpdateList": " ",
   "needUpdateList": " ",
-  "newVersionName": "2.0.1",
-  "newVersionCode": 168,
-  "newVersionInfo": "1. 多语言支持，增加 English<BR>2. 下载时发烫、卡顿优化",
+  "newVersionName": "2.0.4",
+  "newVersionCode": 177,
+  "newVersionInfo": "1. 多语言支持，增加 English<BR>2. 增加M3U8资源的分享",
   "newVersionMD5": "",
   "newVersionURL": "https://play.google.com/store/apps/details?id=com.xiaoapp.android.app.m3u8"
 }
